@@ -24,13 +24,13 @@ To run this project locally:
 
 ## Screenshots
 
-![Screenshot 1](screenshots/Landing%20Page.png)
-![Screenshot 2](screenshots/Nav%20Links.png)
-![Screenshot 3](screenshots/New%20Arrivals%20products%20Section.png)
-![Screenshot 4](screenshots/New%20Trending%20Top_Rated%20Products%20Sale.png)
-![Screenshot 5](screenshots/Deal%20Of%20the%20Day%20Sale.png)
-![Screenshot 6](screenshots/About%20Services%20and%20more.png)
-![Screenshot 7](screenshots/Footer%20Area.png)
+![Screenshot 1](screenshots/LandingPage.png)
+![Screenshot 2](screenshots/NavLinks.png)
+![Screenshot 3](screenshots/NewArrivalsproductsSection.png)
+![Screenshot 4](screenshots/NewTrendingTop_RatedProductsSale.png)
+![Screenshot 5](screenshots/Dealoftheday.png)
+![Screenshot 6](screenshots/About.png)
+![Screenshot 7](screenshots/FooterArea.png)
 
 Clone this repository.
 Open index.html in your preferred web browser.
@@ -46,5 +46,6 @@ Create a Pull Request.
 Resources and References
 [Link to any additional documentation or resources]
 [Links to relevant articles or tutorials]
+
 Credits
 Vishal Bhat - Developer and Maintainer
