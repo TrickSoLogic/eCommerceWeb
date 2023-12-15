@@ -24,13 +24,13 @@ To run this project locally:
 
 ## Screenshots
 
-![Screenshot 1](screenshots/LandingPage.png)
-![Screenshot 2](screenshots/NavLinks.png)
-![Screenshot 3](screenshots/NewArrivalsproductsSection.png)
-![Screenshot 4](screenshots/NewTrendingTop_RatedProductsSale.jpeg)
-![Screenshot 5](screenshots/Dealoftheday.png)
-![Screenshot 6](screenshots/About.png)
-![Screenshot 7](screenshots/FooterArea.png)
+![Screenshot 1](Screenshots/LandingPage.png)
+![Screenshot 2](Screenshots/NavLinks.png)
+![Screenshot 3](Screenshots/NewArrivalsproductsSection.png)
+![Screenshot 4](Screenshots/NewTrendingTop_RatedProductsSale.jpeg)
+![Screenshot 5](Screenshots/Dealoftheday.png)
+![Screenshot 6](Screenshots/About.png)
+![Screenshot 7](Screenshots/FooterArea.png)
 
 Clone this repository.
 Open index.html in your preferred web browser.
