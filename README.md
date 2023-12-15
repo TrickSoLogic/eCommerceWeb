@@ -21,6 +21,17 @@ docs/: Project documentation and resources.
 Getting Started
 To run this project locally:
 
+
+## Screenshots
+
+![Screenshot 1](screenshots/Landing%20Page.png)
+![Screenshot 2](screenshots/Nav%20Links.png)
+![Screenshot 3](screenshots/New%20Arrivals%20products%20Section.png)
+![Screenshot 4](screenshots/New%20Trending%20Top_Rated%20Products%20Sale.png)
+![Screenshot 5](screenshots/Deal%20Of%20the%20Day%20Sale.png)
+![Screenshot 6](screenshots/About%20Services%20and%20more.png)
+![Screenshot 7](screenshots/Footer%20Area.png)
+
 Clone this repository.
 Open index.html in your preferred web browser.
 Contribution Guidelines
