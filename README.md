@@ -27,7 +27,7 @@ To run this project locally:
 ![Screenshot 1](screenshots/LandingPage.png)
 ![Screenshot 2](screenshots/NavLinks.png)
 ![Screenshot 3](screenshots/NewArrivalsproductsSection.png)
-![Screenshot 4](screenshots/NewTrendingTop_RatedProductsSale.png)
+![Screenshot 4](screenshots/NewTrendingTop_RatedProductsSale.jpeg)
 ![Screenshot 5](screenshots/Dealoftheday.png)
 ![Screenshot 6](screenshots/About.png)
 ![Screenshot 7](screenshots/FooterArea.png)
