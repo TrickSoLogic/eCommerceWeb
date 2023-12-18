@@ -12,7 +12,7 @@ Technologies Used
 HTML5
 CSS3 (Sass/SCSS)
 JavaScript (ES6+)
-Project Structure
+Project Structure  
 index.html: Entry point of the website.
 styles/: Contains CSS/Sass files.
 scripts/: JavaScript files and modules.
